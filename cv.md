@@ -17,5 +17,5 @@
 7. Education:    
 -University: VSTU for 5 courses    
 -Course for Wordpress  
--Course The Rolling Scopes Pre-School 
+-Course The Rolling Scopes Pre-School 2023Q2
 9. English A2(I have some speaking practice)
