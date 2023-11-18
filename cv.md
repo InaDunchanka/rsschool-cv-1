@@ -13,7 +13,7 @@
   return a * b
   }
   ```
-6. No work expirience.  Study The Rolling Scopes course  https://github.com/InaDunchanka/rsschool-cv
+6. No work expirience. Study The Rolling Scopes course  https://github.com/InaDunchanka/rsschool-cv
 7. Education:    
 -University: VSTU for 5 courses    
 -Course for Wordpress  
