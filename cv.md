@@ -7,7 +7,7 @@
 4. Skills:  
  -Studied Wordpress    
 -SMM  
--The Rolling Scopes Pre-School 
+-The Rolling Scopes 
 5. Code example
   ```
   function multiply (a, b) {
